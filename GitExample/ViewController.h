@@ -10,6 +10,9 @@
 
 @interface ViewController : UIViewController
 
+@property (strong, nonatomic)NSString* lol;
+
+- (void)initstring:(NSString*)tempStr;
 
 @end
 

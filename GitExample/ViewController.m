@@ -18,6 +18,7 @@
     [super viewDidLoad];
     [self initstring:@"Lol string"];
     [self initstring:@"New Lol String"];
+    [self initstring:@"sda"];
     NSLog(@"%@", _lol);
 }
 

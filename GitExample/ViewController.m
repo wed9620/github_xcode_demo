@@ -19,6 +19,7 @@
     [self initstring:@"Lol string"];
     [self initstring:@"New Lol String"];
     [self initstring:@"sda"];
+    [self initstring:@"das"];
     NSLog(@"%@", _lol);
 }
 

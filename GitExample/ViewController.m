@@ -17,6 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     [self initstring:@"Lol string"];
+    [self initstring:@"New Lol String"];
     NSLog(@"%@", _lol);
 }
 
